@@ -1,0 +1,9 @@
+F:\BASIS\Projects\WindowsApplication\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.SuperShopUI.resources
+F:\BASIS\Projects\WindowsApplication\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.Properties.Resources.resources
+F:\BASIS\Projects\WindowsApplication\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csproj.GenerateResource.Cache
+F:\BASIS\Projects\WindowsApplication\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe.config
+F:\BASIS\Projects\WindowsApplication\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe
+F:\BASIS\Projects\WindowsApplication\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.pdb
+F:\BASIS\Projects\WindowsApplication\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.exe
+F:\BASIS\Projects\WindowsApplication\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.pdb
+F:\BASIS\Projects\WindowsApplication\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csprojResolveAssemblyReference.cache
